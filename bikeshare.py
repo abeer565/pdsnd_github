@@ -152,7 +152,7 @@ def user_stats(df,city):
         print('\ncounts of user types here \n',user_types)
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
-def individual_trip_data(df):
+def individual_trip(df):
     while True:
         i=5
         print(df.head(i))
