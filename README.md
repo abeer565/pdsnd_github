@@ -5,7 +5,7 @@
 Bikeshare insight
 
 ### Description
-Describe what your project is about and what it does
+Extracting information from bikeshare data set using python
 
 ### Files used
 Include the files used
